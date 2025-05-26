@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "Th3M4ttman",
+        "email": "workmatthewjharris94@gmail.com"
+    },
+    "records": {
+        "CNAME": "cname.vercel-dns.com"
+    },
+    "services": {
+        "vercel": "vc-domain-verify=mattharris.is-a.dev,b5dc6555b8608332a1a7"
+    }
+}
